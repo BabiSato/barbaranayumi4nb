@@ -1,4 +1,4 @@
-# Documentação do Software
+# Documentação do Software Backend - Barbara Nayumi
 
 ## 1. Introdução
 
